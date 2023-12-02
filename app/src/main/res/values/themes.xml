@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/blue</item>
+    </style>
+
+    <style name="Theme.YCalc" parent="Base.Theme.YCalc" />
+</resources>
